@@ -145,7 +145,7 @@ Fashion-MNIST Dataset
 
 ```bash
 # Clone the repository
-git clone https://github.com/Somiyakhan10/neural-assembly-pattern-learning.git
+git clone https://github.com/Asmakhan427/neural-assembly-pattern-learning.git
 cd neural-assembly-pattern-learning
 
 # Install dependencies
@@ -153,6 +153,3 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
-
-## Demo Link: https://huggingface.co/spaces/Somiya855/Neural-Assembly-Pattern-Learning
-Demo Link: https://huggingface.co/spaces/Somiya855/Neural-Assembly-Pattern-Learning
